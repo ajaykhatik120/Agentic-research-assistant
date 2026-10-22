@@ -214,7 +214,7 @@ This enables:
 
 ## Workflow Graphs
 
-![LangGraph Workflow](workflow_graph.png)
+
 
 ---
 
