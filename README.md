@@ -2,7 +2,7 @@
 
 > A production-grade, tool-augmented conversational AI system built on LangGraph, featuring persistent memory, PDF RAG, real-time web search, and full observability via LangSmith.
 
-![ARA Chat Interface](image%20copy.png)
+
 
 ---
 
@@ -16,7 +16,7 @@ This project exists to solve a specific architectural challenge: **how do you bu
 
 ## Architecture Overview
 
-![Architecture Diagram](image%20copy%202.png)
+
 
 ARA follows a **LangGraph-native architecture** where the LLM operates as a node within a directed graph. The system boundaries are:
 
