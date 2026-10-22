@@ -114,7 +114,7 @@ This means the LLM **decides** when document context is needed, rather than blin
 
 ## Memory & Persistence
 
-![Persistence Flow](image%20copy%204.png)
+
 
 ### Conversation Checkpointing
 
